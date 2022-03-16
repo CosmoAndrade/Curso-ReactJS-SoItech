@@ -1,0 +1,13 @@
+.header{
+    height: 77px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #D8D8FF ;
+    color: dodgerblue;
+    
+
+}
+

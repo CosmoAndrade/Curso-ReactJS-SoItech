@@ -1,0 +1,23 @@
+.caixa{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.card-caixa{
+    width: 187px;
+    height: 180px;
+    border: 2px solid blue;
+    border-radius: 6px;
+    margin: 15px;
+}
+
+.btn button{
+    background-color: #30549A;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 6px;
+    border: none;
+}
