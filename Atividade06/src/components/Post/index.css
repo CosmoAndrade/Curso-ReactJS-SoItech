@@ -1,0 +1,33 @@
+
+
+.caixa1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 25%;
+  
+}
+
+.caixa1 button{
+    padding: 7px 25px;
+  
+    background-color: #B72F27;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.caixa2 .caixa{
+    
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 6px;
+    margin-bottom: 15px;
+
+}
+
+p{
+    text-align: center;
+}
