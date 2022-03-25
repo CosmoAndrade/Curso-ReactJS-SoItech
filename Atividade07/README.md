@@ -1,3 +1,3 @@
 Link Surge
 
-[Surge] ( roomy-wave.surge.sh)
+ roomy-wave.surge.sh
